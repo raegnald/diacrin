@@ -1,0 +1,4 @@
+(executable
+ (public_name diacrin)
+ (name main)
+ (libraries ))
